@@ -1,0 +1,13 @@
+/////////Chapter 1 HTML //////////
+
+<input tag>,<meta tags>
+CSS and types of CSS 
+Selectors in CSS
+Ordered List and UnOrdered List
+Definition List
+Inserting Audio and Video in HTML
+Inserting Image
+Inline Frame(<iframe>)\
+Types of Hosting
+
+
